@@ -1,0 +1,39 @@
+Hinweis: Lese Netzlistendatei "/home/tania/Workspaces/Private/Langstone-Soundcard/Langstone-Soundcard.net".
+
+Hinweis: Verwenden von Referenzbezeichnern für den Abgleich von Symbolen mit Footprints.
+
+Hinweis: Verarbeite Symbol "R7:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "SW1:Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm".
+Hinweis: Verarbeite Symbol "C3:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C4:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C7:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C8:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C9:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C12:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C13:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Verarbeite Symbol "C2:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "C5:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "C6:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "C10:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "C11:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "C1:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder".
+Hinweis: Verarbeite Symbol "J1:Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "R8:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R6:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R5:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R4:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R3:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R2:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R1:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "U1:Package_SO:SSOP-28_5.3x10.2mm_P0.65mm".
+Hinweis: Verarbeite Symbol "Y1:Crystal:Crystal_SMD_HC49-SD_HandSoldering".
+Hinweis: Verarbeite Symbol "J2:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "J3:Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical".
+Netz Net-(C5-Pad1) hinzufügen.
+C5 Pin 1 von Net-(U1-Pad10) nach Net-(C5-Pad1) wieder verbunden.
+U1 Pin 10 von Net-(U1-Pad10) nach Net-(C5-Pad1) wieder verbunden.
+Footprint J2 von "Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical" in "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" geändert.
+Unbenutztes Netz "Net-(U1-Pad10)" entfernt.
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
