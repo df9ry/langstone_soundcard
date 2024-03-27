@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/tania/Workspaces/Private/Langstone-Soundcard/Langstone-Soundcard.kicad_sch</source>
+    <date>Sa 27 Jan 2024 23:33:27 CET</date>
+    <tool>Eeschema 6.0.11+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Langstone-Soundcard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fccd1cf8-637f-4b34-b30b-c85680712672</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98e3da6c-c8be-4a87-8a17-f4d97b1e84b3</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa4664be-efb6-4481-8cb2-48721dcb3662</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42f67899-b8e6-4dae-a0cd-5a32fbe33783</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>056cd00d-020f-45a4-8353-366fd4041929</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f1b2019-7d3a-4b96-8b70-70ad7c5c3782</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c2c5aaa-a444-440a-81ff-4cdb27b67627</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d12acf09-08fb-433e-b5ba-73e81d8c0cb2</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>073d0a8a-9d96-46f0-9b24-d772de597508</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7540589-9ce2-496c-b47b-061e8abf48b8</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>184e76e6-3420-43de-9263-2ce09fbe5a6c</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e082a90a-9457-4ae7-924a-759d8eab93a1</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b65fe6a-e6a4-4bc3-ab7b-282459ce3d6d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>NF_IN</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cd2fa36-46a0-4293-ba52-cbd63b53381b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>USB</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9cfa8d9-e934-4439-a87c-8881111bbbd1</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>NF_OUT</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3a90302-acb3-4aff-9339-b6df70d1a3f8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad5fe7b3-639e-4b24-979a-89abdb8cad60</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c835a74-354d-427b-afa8-fc6b575aafe8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2825d7a3-020f-4e0f-bd36-418334001aad</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efaee864-4ee2-4bdc-8d61-48954dc98265</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4f79e56-2efc-4af5-9436-a5011c5e48f3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b3d6222-b0b1-4ea3-bfcc-1a51c89d2d8d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b49c301-1296-4295-bab9-a20a83bad6f9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54155697-84e1-49fa-b194-9098c88d757c</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>HID</value>
+      <footprint>Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm</footprint>
+      <libsource lib="Switch" part="SW_DIP_x03" description="3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>417c69e7-edf5-4f45-82ca-a6167cf1f956</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PCM2902</value>
+      <footprint>Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/pcm2902c.pdf</datasheet>
+      <libsource lib="Audio" part="PCM2902" description="Stereo Audio Codec with USB interface, Analog Input/Output, and S/PDIF, SSOP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71578b65-7ac5-49f0-80c3-e5dd0359bbb9</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_HC49-SD_HandSoldering</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Langstone-Soundcard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0008b609-7f2d-43ab-94f4-4bb3b58f4eab</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Audio" part="PCM2902">
+      <description>Stereo Audio Codec with USB interface, Analog Input/Output, and S/PDIF, SSOP-28</description>
+      <docs>http://www.ti.com/lit/ds/symlink/pcm2902c.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x10.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCM2902</field>
+        <field name="Footprint">Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/pcm2902c.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D+" type="bidirectional"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="VBUS" type="power_in"/>
+        <pin num="4" name="DGNDU" type="power_in"/>
+        <pin num="5" name="HID0" type="input"/>
+        <pin num="6" name="HID1" type="input"/>
+        <pin num="7" name="HID2" type="input"/>
+        <pin num="8" name="SEL0" type="input"/>
+        <pin num="9" name="SEL1" type="input"/>
+        <pin num="10" name="VCCCI" type="passive"/>
+        <pin num="11" name="AGNDC" type="power_in"/>
+        <pin num="12" name="VINL" type="input"/>
+        <pin num="13" name="VINR" type="input"/>
+        <pin num="14" name="VCOM" type="passive"/>
+        <pin num="15" name="VOUTR" type="output"/>
+        <pin num="16" name="VOUTL" type="output"/>
+        <pin num="17" name="VCCP1I" type="passive"/>
+        <pin num="18" name="AGNDP" type="power_in"/>
+        <pin num="19" name="VCCP2I" type="passive"/>
+        <pin num="20" name="XTO" type="output"/>
+        <pin num="21" name="XTI" type="input"/>
+        <pin num="22" name="AGNDX" type="power_in"/>
+        <pin num="23" name="VCCXI" type="passive"/>
+        <pin num="24" name="DIN" type="input"/>
+        <pin num="25" name="DOUT" type="output"/>
+        <pin num="26" name="DGND" type="power_in"/>
+        <pin num="27" name="VDDI" type="power_out"/>
+        <pin num="28" name="~{SSPND}" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x03">
+      <description>3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x3*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Audio">
+      <uri>/usr/share/kicad/symbols//Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="AGNDC" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="AGNDP" pintype="power_in"/>
+      <node ref="U1" pin="22" pinfunction="AGNDX" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="DIN" pintype="input"/>
+      <node ref="U1" pin="26" pinfunction="DGND" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="DGNDU" pintype="power_in"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="VINL" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="VINR" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="VDDI" pintype="power_out"/>
+      <node ref="U1" pin="8" pinfunction="SEL0" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="SEL1" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCOM" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="VCCP1I" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="VCCP2I" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="VCCXI" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VOUTL" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="VOUTR" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="XTI" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="XTO" pintype="output"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="~{SSPND}" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(SW1-Pad4)">
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="HID2" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(SW1-Pad5)">
+      <node ref="SW1" pin="5" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="HID1" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(SW1-Pad6)">
+      <node ref="SW1" pin="6" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="HID0" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(U1-Pad10)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VCCCI" pintype="passive"/>
+    </net>
+    <net code="30" name="VCC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
